@@ -1,2 +1,2 @@
 # class exercises
-some basic class exercises based on Java
+Some basic class exercises based on Java
